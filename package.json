@@ -1,0 +1,55 @@
+{
+  "name": "toon-convertor",
+  "version": "1.0.0",
+  "description": "Convert JSON to TOON (Token-Oriented Object Notation) - a compact, human-readable format optimized for LLM prompts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "toon",
+    "json",
+    "converter",
+    "serialization",
+    "llm",
+    "token-optimization",
+    "data-format",
+    "typescript",
+    "encoder",
+    "decoder",
+    "compression",
+    "ai",
+    "prompt",
+    "compact"
+  ],
+  "author": "Hasnain Khan <hasnainkhan9750@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HK9750/toon-convertor.git"
+  },
+  "homepage": "https://github.com/HK9750/toon-convertor#readme",
+  "bugs": {
+    "url": "https://github.com/HK9750/toon-convertor/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@vitest/ui": "^4.0.10",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.10"
+  }
+}
