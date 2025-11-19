@@ -21,6 +21,7 @@
     "toon",
     "json",
     "converter",
+    "json-converter",
     "serialization",
     "llm",
     "token-optimization",
@@ -31,13 +32,19 @@
     "compression",
     "ai",
     "prompt",
-    "compact"
+    "prompt-engineering",
+    "compact",
+    "chatgpt",
+    "openai",
+    "claude",
+    "data-serialization",
+    "token-efficient"
   ],
   "author": "Hasnain Khan <hasnainkhan9750@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HK9750/toon-convertor.git"
+    "url": "git+https://github.com/HK9750/toon-convertor.git"
   },
   "homepage": "https://github.com/HK9750/toon-convertor#readme",
   "bugs": {

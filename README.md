@@ -1,9 +1,12 @@
 # toon-convertor
 
 [![npm version](https://img.shields.io/npm/v/toon-convertor.svg)](https://www.npmjs.com/package/toon-convertor)
+[![npm downloads](https://img.shields.io/npm/dm/toon-convertor.svg)](https://www.npmjs.com/package/toon-convertor)
+[![GitHub stars](https://img.shields.io/github/stars/HK9750/toon-convertor.svg)](https://github.com/HK9750/toon-convertor/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/HK9750/toon-convertor.svg)](https://github.com/HK9750/toon-convertor/issues)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Tests](https://img.shields.io/badge/tests-63%20passing-brightgreen.svg)](./tests)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 Convert JSON to **TOON (Token-Oriented Object Notation)** - a compact, human-readable format designed to minimize token usage in LLM prompts.
 
