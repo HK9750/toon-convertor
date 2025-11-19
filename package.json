@@ -1,6 +1,6 @@
 {
   "name": "toon-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert JSON to TOON (Token-Oriented Object Notation) - a compact, human-readable format optimized for LLM prompts",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
